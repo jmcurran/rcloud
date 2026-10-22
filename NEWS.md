@@ -11,6 +11,8 @@
 
 ### Improvements
  * Better support for off-line packaging and installation
+ * Add `CLAUDE.md` with build, architecture and contribution notes for Claude Code;
+   ignore the local `review/` directory
 
 ## RCloud 2.4.0
 
